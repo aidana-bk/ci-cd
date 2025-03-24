@@ -200,6 +200,7 @@ main {
 .promo__photo {
   position: absolute;
   height: 350px;
+  width: 208px;
   left: 0;
   bottom: 0;
 }
