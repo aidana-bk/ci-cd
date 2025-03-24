@@ -11,7 +11,6 @@
 // 3. Base stuff
 @use 'style/base/base';
 @use 'style/base/fonts';
-@use 'style/base/typography';
 @use 'style/base/helpers';
 
 // 4. Layout-related sections
@@ -30,11 +29,7 @@
 @use 'style/components/filters/check';
 
 // 6. Page-specific styles
-@use 'style/pages/home';
 @use 'style/pages/cart-page';
 @use 'style/pages/error-page';
 @use 'style/pages/product-page';
 @use 'style/pages/catalog';
-
-// 7. Themes
-@use 'style/themes/default';
